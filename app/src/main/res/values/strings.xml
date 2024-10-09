@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">maketsoz</string>
+    <string name="text_name">Имя: Артём</string>
+    <string name="text_name2">Возраст: 17</string>
+    <string name="text_name3">Специализация: Android-Разработчик</string>
+    <string name="text_name4">Фото</string>
+    <string name="text_name5">Проекты</string>
+    <string name="text_name6">Достижения</string>
+    <string name="text_name7">Я занимаюсь разработкой на Android и учусь в БТПИТ</string>
+    <string name="text_name8">Биография</string>
+</resources>
